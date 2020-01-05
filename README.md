@@ -7,5 +7,5 @@ another line
 # SECOND PARAGRAPH
 a little more text
 
-#MORE TEXT
+# MORE TEXT
 test
